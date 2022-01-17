@@ -1,1 +1,1 @@
-# template-web_scraping-API-OMDb
+# template-API-OMDb
